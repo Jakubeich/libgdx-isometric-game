@@ -1,6 +1,6 @@
 # libgdx-isometric-game
 
-##Features: 
+## Features: 
 * Random generate map: G
 * Movement: LEFT, RIGHT, UP, DOWN
 * Zoom: W

@@ -9,3 +9,4 @@
 
 ## Sprite used
 ![](grass.png)
+![](stone.png)
